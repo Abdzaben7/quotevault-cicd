@@ -75,3 +75,4 @@ jobs:
                   tag_name: ${{ github.event.workflow_run.head_branch }}
                   name: ${{ github.event.workflow_run.head_branch }}
                   generate_release_notes: true
+ff
