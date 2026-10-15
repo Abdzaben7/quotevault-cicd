@@ -1,5 +1,4 @@
 name: CI
-ffff
 on:
     push:
         branches: [ main ]
